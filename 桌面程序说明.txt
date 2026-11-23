@@ -1,0 +1,32 @@
+首次使用：双击「安装桌面程序.bat」，安装 Python 依赖并构建前端。
+日常启动：双击「启动桌面程序.bat」。也可使用 .venv\Scripts\python.exe desktop.py 查看启动问题。
+运行环境：Windows、Python 3.10+、Microsoft Edge WebView2 Runtime。
+安装及重新构建前端需要 Node.js/npm；日常运行不需要 Node.js。
+数据库仍使用原项目的 MySQL 配置，请先确保 MySQL 已运行。
+
+运行方式：
+1. 显示桌面窗口和启动提示。
+2. 在窗口宿主进程的后台线程中启动 FastAPI/Uvicorn，执行原有数据库初始化。
+3. 健康检查通过后，内置浏览器才加载 Vue 前端。
+4. 前端 dist 静态文件与 /api、WebSocket 共用一个本机服务，自动分配空闲端口。
+5. 关闭窗口时停止 API，释放监听端口，结束宿主进程内的后台线程。
+关闭窗口也会终止尚未完成的模型训练，请等待训练结束后再关闭。
+
+不额外启动 Vite、Node 或独立的后端进程。WebView2 按浏览器自身架构使用渲染子进程，
+这些子进程由 WebView2 管理，并非把浏览器所有组件强制合并为一个操作系统进程。
+MySQL 是现有的外部数据库服务，不由桌面程序启动或关闭。
+
+修改前端源码后，重新运行安装脚本，或者在 frontend 目录执行 npm run build。
+启动或运行失败会显示错误页面；日志位于 output\desktop.log，自动轮转保留。
+原有 start_api.bat / start_frontend.bat 的网页开发启动方式仍可使用。
+
+开发模式：双击「启动开发模式.bat」，或运行 .venv\Scripts\python.exe desktop.py --dev。
+此模式需要 Node.js。前端直接使用 Vite，修改 Vue/JS/CSS 保存后热更新；
+修改 ecom_forecast 下的 Python 源码会触发 Uvicorn 自动重启后端。
+重启期间 API 会短暂不可用，正在进行的训练也会中断；修改 desktop*.py 需重新打开窗口。
+开发模式按后端健康检查通过、Vite 就绪、加载内置浏览器的顺序启动。
+服务使用独立子进程以支持重载，前端 /api 与训练 WebSocket 自动代理到本次后端端口。
+服务及其重载、编译子进程均纳入 Windows Job Object；关闭主窗口会终止整个服务进程树。
+窗口宿主异常退出时，Windows 也会通过 Job 句柄关闭机制回收这些服务。
+只清理本次窗口启动的服务，不影响其他窗口、独立启动的服务或 MySQL。
+开发日志：output\desktop-dev-backend.log、output\desktop-dev-frontend.log。

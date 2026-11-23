@@ -1,0 +1,26 @@
+.env
+.env.*
+!.env.example
+.venv/
+**/__pycache__/
+frontend/node_modules/
+output/*.log
+output/gmv_*.json
+ecom_forecast/data/expected_gmv/
+ecom_forecast/api/gmv_rules/versions/
+ecom_forecast/api/gmv_rules/candidate_*.py
+
+# Local tools, build products, and runtime state
+.idea/
+.claude/
+.docx_qa_deps/
+.docx_qa_shim/
+frontend/dist/
+output/
+*.log
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+.integration_settings.key
+script/*_result.json

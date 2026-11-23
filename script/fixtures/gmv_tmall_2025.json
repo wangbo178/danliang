@@ -1,0 +1,5881 @@
+{
+  "cells": [
+    {
+      "row": 1,
+      "col": "A",
+      "ref": "A1",
+      "value": "25年",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "B",
+      "ref": "B1",
+      "value": "日期",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "D",
+      "ref": "D1",
+      "value": "10+11月 TTL",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "E",
+      "ref": "E1",
+      "value": "10月ttl",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "F",
+      "ref": "F1",
+      "value": "11月ttl",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "G",
+      "ref": "G1",
+      "value": "双11（10.8-11.14）",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "H",
+      "ref": "H1",
+      "value": "10月1日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "I",
+      "ref": "I1",
+      "value": "10月2日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "J",
+      "ref": "J1",
+      "value": "10月3日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "K",
+      "ref": "K1",
+      "value": "10月4日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "L",
+      "ref": "L1",
+      "value": "10月5日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "M",
+      "ref": "M1",
+      "value": "10月6日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "N",
+      "ref": "N1",
+      "value": "10月7日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "O",
+      "ref": "O1",
+      "value": "10月8日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "P",
+      "ref": "P1",
+      "value": "10月9日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "Q",
+      "ref": "Q1",
+      "value": "10月10日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "R",
+      "ref": "R1",
+      "value": "10月11日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "S",
+      "ref": "S1",
+      "value": "10月12日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "T",
+      "ref": "T1",
+      "value": "10月13日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "U",
+      "ref": "U1",
+      "value": "10月14日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "V",
+      "ref": "V1",
+      "value": "10月15日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "W",
+      "ref": "W1",
+      "value": "10月16日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "X",
+      "ref": "X1",
+      "value": "10月17日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "Y",
+      "ref": "Y1",
+      "value": "10月18日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "Z",
+      "ref": "Z1",
+      "value": "10月19日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AA",
+      "ref": "AA1",
+      "value": "10月20日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AB",
+      "ref": "AB1",
+      "value": "10月21日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AC",
+      "ref": "AC1",
+      "value": "10月22日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AD",
+      "ref": "AD1",
+      "value": "10月23日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AE",
+      "ref": "AE1",
+      "value": "10月24日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AF",
+      "ref": "AF1",
+      "value": "10月25日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AG",
+      "ref": "AG1",
+      "value": "10月26日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AH",
+      "ref": "AH1",
+      "value": "10月27日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AI",
+      "ref": "AI1",
+      "value": "10月28日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AJ",
+      "ref": "AJ1",
+      "value": "10月29日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AK",
+      "ref": "AK1",
+      "value": "10月30日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AL",
+      "ref": "AL1",
+      "value": "10月31日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AM",
+      "ref": "AM1",
+      "value": "11月1日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AN",
+      "ref": "AN1",
+      "value": "11月2日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AO",
+      "ref": "AO1",
+      "value": "11月3日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AP",
+      "ref": "AP1",
+      "value": "11月4日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AQ",
+      "ref": "AQ1",
+      "value": "11月5日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AR",
+      "ref": "AR1",
+      "value": "11月6日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AS",
+      "ref": "AS1",
+      "value": "11月7日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AT",
+      "ref": "AT1",
+      "value": "11月8日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AU",
+      "ref": "AU1",
+      "value": "11月9日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AV",
+      "ref": "AV1",
+      "value": "11月10日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AW",
+      "ref": "AW1",
+      "value": "11月11日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AX",
+      "ref": "AX1",
+      "value": "11月12日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AY",
+      "ref": "AY1",
+      "value": "11月13日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "AZ",
+      "ref": "AZ1",
+      "value": "11月14日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "BA",
+      "ref": "BA1",
+      "value": "11月15日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "BB",
+      "ref": "BB1",
+      "value": "11月16日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "BC",
+      "ref": "BC1",
+      "value": "11月17日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "BD",
+      "ref": "BD1",
+      "value": "11月18日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "BE",
+      "ref": "BE1",
+      "value": "11月19日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "BF",
+      "ref": "BF1",
+      "value": "11月20日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "BG",
+      "ref": "BG1",
+      "value": "11月21日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "BH",
+      "ref": "BH1",
+      "value": "11月22日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "BI",
+      "ref": "BI1",
+      "value": "11月23日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "BJ",
+      "ref": "BJ1",
+      "value": "11月24日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "BK",
+      "ref": "BK1",
+      "value": "11月25日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "BL",
+      "ref": "BL1",
+      "value": "11月26日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "BM",
+      "ref": "BM1",
+      "value": "11月27日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "BN",
+      "ref": "BN1",
+      "value": "11月28日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "BO",
+      "ref": "BO1",
+      "value": "11月29日",
+      "formula": null
+    },
+    {
+      "row": 1,
+      "col": "BP",
+      "ref": "BP1",
+      "value": "11月30日",
+      "formula": null
+    },
+    {
+      "row": 2,
+      "col": "A",
+      "ref": "A2",
+      "value": "波段",
+      "formula": null
+    },
+    {
+      "row": 2,
+      "col": "H",
+      "ref": "H2",
+      "value": "-",
+      "formula": null
+    },
+    {
+      "row": 2,
+      "col": "O",
+      "ref": "O2",
+      "value": "双11抢跑",
+      "formula": null
+    },
+    {
+      "row": 2,
+      "col": "V",
+      "ref": "V2",
+      "value": " 第一波预售期现货 ",
+      "formula": null
+    },
+    {
+      "row": 2,
+      "col": "AA",
+      "ref": "AA2",
+      "value": " 双11第一波现货 ",
+      "formula": null
+    },
+    {
+      "row": 2,
+      "col": "AF",
+      "ref": "AF2",
+      "value": " 双11第二波 ",
+      "formula": null
+    },
+    {
+      "row": 3,
+      "col": "A",
+      "ref": "A3",
+      "value": "官方节奏",
+      "formula": null
+    },
+    {
+      "row": 3,
+      "col": "B",
+      "ref": "B3",
+      "value": "预售节奏",
+      "formula": null
+    },
+    {
+      "row": 3,
+      "col": "H",
+      "ref": "H3",
+      "value": "天猫国庆节\n时间：9.27-10.7\n玩法：官方立减10%",
+      "formula": null
+    },
+    {
+      "row": 3,
+      "col": "O",
+      "ref": "O3",
+      "value": " 天猫超级88大促\n时间：10.8-10.10\n玩法：官方立减12% ",
+      "formula": null
+    },
+    {
+      "row": 3,
+      "col": "R",
+      "ref": "R3",
+      "value": " - ",
+      "formula": null
+    },
+    {
+      "row": 3,
+      "col": "V",
+      "ref": "V3",
+      "value": "双11预售节奏\n预售预热：10月15日0点-10月15日19:59:59\n预售定金支付：10月15日20点-10月20日17:59:59\n货架主链接预售，同步一套次链接做现货",
+      "formula": null
+    },
+    {
+      "row": 3,
+      "col": "AA",
+      "ref": "AA3",
+      "value": "预售尾款支付\n10月20日20点-10月24日23:59:59\n生效官方立减15%",
+      "formula": null
+    },
+    {
+      "row": 3,
+      "col": "AF",
+      "ref": "AF3",
+      "value": " - ",
+      "formula": null
+    },
+    {
+      "row": 3,
+      "col": "AS",
+      "ref": "AS3",
+      "value": "第二波预售：店铺不做预售，仅达播参与（新链接报名）\n预售预热：11月7日09:00:00-11月7日09:59:59\n预售定金支付：11月7日10:00:00-11月10日17:59:59\n预售尾款支付：11月10日20:00:00-11月14日23:59:59",
+      "formula": null
+    },
+    {
+      "row": 3,
+      "col": "BA",
+      "ref": "BA3",
+      "value": " 无 ",
+      "formula": null
+    },
+    {
+      "row": 4,
+      "col": "B",
+      "ref": "B4",
+      "value": "现货节奏",
+      "formula": null
+    },
+    {
+      "row": 4,
+      "col": "R",
+      "ref": "R4",
+      "value": " - ",
+      "formula": null
+    },
+    {
+      "row": 4,
+      "col": "X",
+      "ref": "X4",
+      "value": "双11现货预热\n10月17日0点-10月20日19:59:59\n店铺宝：单品立减tbc\\超级立减不生效；",
+      "formula": null
+    },
+    {
+      "row": 4,
+      "col": "AA",
+      "ref": "AA4",
+      "value": "双11现货爆发\n生效立减：10月20日20点-11月14日23:59:59\n玩法：官方立减15%",
+      "formula": null
+    },
+    {
+      "row": 4,
+      "col": "BC",
+      "ref": "BC4",
+      "value": " 官方超级88大促\n玩法：立减12%起\n节奏：无预热，0点现货开抢\n活动时间：11月17日 0点-11月19日 ",
+      "formula": null
+    },
+    {
+      "row": 4,
+      "col": "BF",
+      "ref": "BF4",
+      "value": " 无官方 ",
+      "formula": null
+    },
+    {
+      "row": 5,
+      "col": "B",
+      "ref": "B5",
+      "value": "店铺力度",
+      "formula": null
+    },
+    {
+      "row": 5,
+      "col": "H",
+      "ref": "H5",
+      "value": "店铺常规力度\n策略：10.1起 部分核心套装抢跑双11（S+促），立减15%",
+      "formula": null
+    },
+    {
+      "row": 5,
+      "col": "O",
+      "ref": "O5",
+      "value": " 双11全店抢跑（S+)\n策略：主推现货、主链接\n全店立减15% ",
+      "formula": null
+    },
+    {
+      "row": 5,
+      "col": "U",
+      "ref": "U5",
+      "value": "双11预售预热\n10.14上午10点切预热页面\n立减15%",
+      "formula": null
+    },
+    {
+      "row": 5,
+      "col": "V",
+      "ref": "V5",
+      "value": "店铺S+",
+      "formula": null
+    },
+    {
+      "row": 5,
+      "col": "AA",
+      "ref": "AA5",
+      "value": " 双11现货爆发（S+促）\n策略：推现货主链接\n生效官方立减15% ",
+      "formula": null
+    },
+    {
+      "row": 5,
+      "col": "BA",
+      "ref": "BA5",
+      "value": " 薇诺娜|双11返场\n平台工具超级立减15% ",
+      "formula": null
+    },
+    {
+      "row": 5,
+      "col": "BC",
+      "ref": "BC5",
+      "value": " 薇诺娜|双11返场|超级88\n参加平台超级立减15%（设置15%） ",
+      "formula": null
+    },
+    {
+      "row": 5,
+      "col": "BF",
+      "ref": "BF5",
+      "value": " 薇诺娜|双11返场\n平台工具超级立减15% ",
+      "formula": null
+    },
+    {
+      "row": 5,
+      "col": "BG",
+      "ref": "BG5",
+      "value": " 店铺常规活动力度\n立减10% ",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "A",
+      "ref": "A6",
+      "value": "渠道GMV",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "B",
+      "ref": "B6",
+      "value": "全店",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "D",
+      "ref": "D6",
+      "value": 1144985485,
+      "formula": "=E6+F6"
+    },
+    {
+      "row": 6,
+      "col": "E",
+      "ref": "E6",
+      "value": 800055105,
+      "formula": "=SUM(H6:AL6)"
+    },
+    {
+      "row": 6,
+      "col": "F",
+      "ref": "F6",
+      "value": 344930380,
+      "formula": "=SUM(AM6:BP6)"
+    },
+    {
+      "row": 6,
+      "col": "G",
+      "ref": "G6",
+      "value": 1089789660,
+      "formula": "=SUM(O6:AZ6)"
+    },
+    {
+      "row": 6,
+      "col": "H",
+      "ref": "H6",
+      "value": "2,255,192",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "I",
+      "ref": "I6",
+      "value": "2,052,800",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "J",
+      "ref": "J6",
+      "value": "1,945,747",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "K",
+      "ref": "K6",
+      "value": "2,011,464",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "L",
+      "ref": "L6",
+      "value": "1,955,679",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "M",
+      "ref": "M6",
+      "value": "4,236,661",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "N",
+      "ref": "N6",
+      "value": "2,396,289",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "O",
+      "ref": "O6",
+      "value": "4,461,774",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "P",
+      "ref": "P6",
+      "value": "5,101,271",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "Q",
+      "ref": "Q6",
+      "value": "5,147,682",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "R",
+      "ref": "R6",
+      "value": "3,272,337",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "S",
+      "ref": "S6",
+      "value": "3,654,976",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "T",
+      "ref": "T6",
+      "value": "3,839,271",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "U",
+      "ref": "U6",
+      "value": "3,610,567",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "V",
+      "ref": "V6",
+      "value": "2,960,314",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "W",
+      "ref": "W6",
+      "value": "1,951,297",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "X",
+      "ref": "X6",
+      "value": "1,207,007",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "Y",
+      "ref": "Y6",
+      "value": "993,176",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "Z",
+      "ref": "Z6",
+      "value": "942,726",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AA",
+      "ref": "AA6",
+      "value": "433,399,125",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AB",
+      "ref": "AB6",
+      "value": "101,441,097",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AC",
+      "ref": "AC6",
+      "value": "35,332,540",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AD",
+      "ref": "AD6",
+      "value": "28,412,608",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AE",
+      "ref": "AE6",
+      "value": "67,429,837",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AF",
+      "ref": "AF6",
+      "value": "12,602,787",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AG",
+      "ref": "AG6",
+      "value": "10,973,765",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AH",
+      "ref": "AH6",
+      "value": "9,541,628",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AI",
+      "ref": "AI6",
+      "value": "10,253,446",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AJ",
+      "ref": "AJ6",
+      "value": "8,504,896",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AK",
+      "ref": "AK6",
+      "value": "8,157,439",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AL",
+      "ref": "AL6",
+      "value": "20,009,707",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AM",
+      "ref": "AM6",
+      "value": "8,104,558",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AN",
+      "ref": "AN6",
+      "value": "8,753,502",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AO",
+      "ref": "AO6",
+      "value": "10,143,790",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AP",
+      "ref": "AP6",
+      "value": "7,228,607",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AQ",
+      "ref": "AQ6",
+      "value": "8,437,859",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AR",
+      "ref": "AR6",
+      "value": "6,841,239",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AS",
+      "ref": "AS6",
+      "value": "11,688,376",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AT",
+      "ref": "AT6",
+      "value": "6,227,919",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AU",
+      "ref": "AU6",
+      "value": "11,496,914",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AV",
+      "ref": "AV6",
+      "value": "44,372,702",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AW",
+      "ref": "AW6",
+      "value": "69,261,645",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AX",
+      "ref": "AX6",
+      "value": "7,940,379",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AY",
+      "ref": "AY6",
+      "value": "6,379,721",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "AZ",
+      "ref": "AZ6",
+      "value": "99,711,176",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "BA",
+      "ref": "BA6",
+      "value": "2,324,946",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "BB",
+      "ref": "BB6",
+      "value": "2,149,780",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "BC",
+      "ref": "BC6",
+      "value": "3,151,635",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "BD",
+      "ref": "BD6",
+      "value": "2,928,559",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "BE",
+      "ref": "BE6",
+      "value": "3,087,153",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "BF",
+      "ref": "BF6",
+      "value": "2,749,761",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "BG",
+      "ref": "BG6",
+      "value": "1,715,776",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "BH",
+      "ref": "BH6",
+      "value": "1,931,342",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "BI",
+      "ref": "BI6",
+      "value": "2,068,521",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "BJ",
+      "ref": "BJ6",
+      "value": "2,354,669",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "BK",
+      "ref": "BK6",
+      "value": "2,268,280",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "BL",
+      "ref": "BL6",
+      "value": "2,250,059",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "BM",
+      "ref": "BM6",
+      "value": "2,454,038",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "BN",
+      "ref": "BN6",
+      "value": "2,123,881",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "BO",
+      "ref": "BO6",
+      "value": "2,264,876",
+      "formula": null
+    },
+    {
+      "row": 6,
+      "col": "BP",
+      "ref": "BP6",
+      "value": "2,518,717",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "B",
+      "ref": "B7",
+      "value": "货架",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "D",
+      "ref": "D7",
+      "value": 674623629,
+      "formula": "=E7+F7"
+    },
+    {
+      "row": 7,
+      "col": "E",
+      "ref": "E7",
+      "value": 398522101,
+      "formula": "=SUM(H7:AL7)"
+    },
+    {
+      "row": 7,
+      "col": "F",
+      "ref": "F7",
+      "value": 276101528,
+      "formula": "=SUM(AM7:BP7)"
+    },
+    {
+      "row": 7,
+      "col": "G",
+      "ref": "G7",
+      "value": 630247567,
+      "formula": "=SUM(O7:AZ7)"
+    },
+    {
+      "row": 7,
+      "col": "H",
+      "ref": "H7",
+      "value": "1,795,890",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "I",
+      "ref": "I7",
+      "value": "1,668,193",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "J",
+      "ref": "J7",
+      "value": "1,596,890",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "K",
+      "ref": "K7",
+      "value": "1,666,917",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "L",
+      "ref": "L7",
+      "value": "1,611,515",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "M",
+      "ref": "M7",
+      "value": "1,746,881",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "N",
+      "ref": "N7",
+      "value": "1,953,495",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "O",
+      "ref": "O7",
+      "value": "3,591,591",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "P",
+      "ref": "P7",
+      "value": "4,243,727",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "Q",
+      "ref": "Q7",
+      "value": "4,070,304",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "R",
+      "ref": "R7",
+      "value": "2,643,822",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "S",
+      "ref": "S7",
+      "value": "2,862,726",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "T",
+      "ref": "T7",
+      "value": "3,092,311",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "U",
+      "ref": "U7",
+      "value": "2,880,686",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "V",
+      "ref": "V7",
+      "value": "2,086,858",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "W",
+      "ref": "W7",
+      "value": "1,485,346",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "X",
+      "ref": "X7",
+      "value": "993,675",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "Y",
+      "ref": "Y7",
+      "value": "791,021",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "Z",
+      "ref": "Z7",
+      "value": "739,158",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AA",
+      "ref": "AA7",
+      "value": "178,729,636",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AB",
+      "ref": "AB7",
+      "value": "47,226,199",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AC",
+      "ref": "AC7",
+      "value": "15,689,673",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AD",
+      "ref": "AD7",
+      "value": "12,130,787",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AE",
+      "ref": "AE7",
+      "value": "48,565,837",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AF",
+      "ref": "AF7",
+      "value": "8,440,617",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AG",
+      "ref": "AG7",
+      "value": "7,221,039",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AH",
+      "ref": "AH7",
+      "value": "6,721,049",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AI",
+      "ref": "AI7",
+      "value": "7,393,662",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AJ",
+      "ref": "AJ7",
+      "value": "5,918,943",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AK",
+      "ref": "AK7",
+      "value": "5,651,618",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AL",
+      "ref": "AL7",
+      "value": "13,312,035",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AM",
+      "ref": "AM7",
+      "value": "5,415,083",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AN",
+      "ref": "AN7",
+      "value": "5,661,296",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AO",
+      "ref": "AO7",
+      "value": "6,328,710",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AP",
+      "ref": "AP7",
+      "value": "5,056,132",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AQ",
+      "ref": "AQ7",
+      "value": "5,364,531",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AR",
+      "ref": "AR7",
+      "value": "5,133,419",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AS",
+      "ref": "AS7",
+      "value": "9,969,127",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AT",
+      "ref": "AT7",
+      "value": "4,753,338",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AU",
+      "ref": "AU7",
+      "value": "9,822,311",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AV",
+      "ref": "AV7",
+      "value": "30,049,280",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AW",
+      "ref": "AW7",
+      "value": "51,033,105",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AX",
+      "ref": "AX7",
+      "value": "5,032,566",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AY",
+      "ref": "AY7",
+      "value": "4,179,888",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "AZ",
+      "ref": "AZ7",
+      "value": "95,966,461",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "BA",
+      "ref": "BA7",
+      "value": "1,946,393",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "BB",
+      "ref": "BB7",
+      "value": "1,804,078",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "BC",
+      "ref": "BC7",
+      "value": "2,699,888",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "BD",
+      "ref": "BD7",
+      "value": "2,478,173",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "BE",
+      "ref": "BE7",
+      "value": "2,627,511",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "BF",
+      "ref": "BF7",
+      "value": "2,353,009",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "BG",
+      "ref": "BG7",
+      "value": "1,444,624",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "BH",
+      "ref": "BH7",
+      "value": "1,630,353",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "BI",
+      "ref": "BI7",
+      "value": "1,756,078",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "BJ",
+      "ref": "BJ7",
+      "value": "1,996,007",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "BK",
+      "ref": "BK7",
+      "value": "1,927,557",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "BL",
+      "ref": "BL7",
+      "value": "1,920,162",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "BM",
+      "ref": "BM7",
+      "value": "1,894,807",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "BN",
+      "ref": "BN7",
+      "value": "1,772,963",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "BO",
+      "ref": "BO7",
+      "value": "1,939,391",
+      "formula": null
+    },
+    {
+      "row": 7,
+      "col": "BP",
+      "ref": "BP7",
+      "value": "2,145,287",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "B",
+      "ref": "B8",
+      "value": "自播",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "D",
+      "ref": "D8",
+      "value": 75216387,
+      "formula": "=E8+F8"
+    },
+    {
+      "row": 8,
+      "col": "E",
+      "ref": "E8",
+      "value": 44502255,
+      "formula": "=SUM(H8:AL8)"
+    },
+    {
+      "row": 8,
+      "col": "F",
+      "ref": "F8",
+      "value": 30714132,
+      "formula": "=SUM(AM8:BP8)"
+    },
+    {
+      "row": 8,
+      "col": "G",
+      "ref": "G8",
+      "value": 67559042,
+      "formula": "=SUM(O8:AZ8)"
+    },
+    {
+      "row": 8,
+      "col": "H",
+      "ref": "H8",
+      "value": "446,896",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "I",
+      "ref": "I8",
+      "value": "370,567",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "J",
+      "ref": "J8",
+      "value": "337,501",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "K",
+      "ref": "K8",
+      "value": "332,834",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "L",
+      "ref": "L8",
+      "value": "329,295",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "M",
+      "ref": "M8",
+      "value": "340,823",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "N",
+      "ref": "N8",
+      "value": "328,935",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "O",
+      "ref": "O8",
+      "value": "834,389",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "P",
+      "ref": "P8",
+      "value": "820,115",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "Q",
+      "ref": "Q8",
+      "value": "1,041,445",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "R",
+      "ref": "R8",
+      "value": "611,387",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "S",
+      "ref": "S8",
+      "value": "764,987",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "T",
+      "ref": "T8",
+      "value": "722,211",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "U",
+      "ref": "U8",
+      "value": "706,783",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "V",
+      "ref": "V8",
+      "value": "851,969",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "W",
+      "ref": "W8",
+      "value": "449,805",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "X",
+      "ref": "X8",
+      "value": "202,302",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "Y",
+      "ref": "Y8",
+      "value": "195,084",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "Z",
+      "ref": "Z8",
+      "value": "197,347",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AA",
+      "ref": "AA8",
+      "value": "13,277,384",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AB",
+      "ref": "AB8",
+      "value": "4,469,967",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AC",
+      "ref": "AC8",
+      "value": "2,846,148",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AD",
+      "ref": "AD8",
+      "value": "2,353,539",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AE",
+      "ref": "AE8",
+      "value": "2,360,455",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AF",
+      "ref": "AF8",
+      "value": "1,441,589",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AG",
+      "ref": "AG8",
+      "value": "1,349,118",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AH",
+      "ref": "AH8",
+      "value": "1,122,758",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AI",
+      "ref": "AI8",
+      "value": "1,175,437",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AJ",
+      "ref": "AJ8",
+      "value": "1,131,080",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AK",
+      "ref": "AK8",
+      "value": "1,323,671",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AL",
+      "ref": "AL8",
+      "value": "1,766,434",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AM",
+      "ref": "AM8",
+      "value": "1,384,077",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AN",
+      "ref": "AN8",
+      "value": "1,484,156",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AO",
+      "ref": "AO8",
+      "value": "2,452,058",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AP",
+      "ref": "AP8",
+      "value": "1,093,341",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AQ",
+      "ref": "AQ8",
+      "value": "2,179,653",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AR",
+      "ref": "AR8",
+      "value": "1,189,550",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AS",
+      "ref": "AS8",
+      "value": "1,234,947",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AT",
+      "ref": "AT8",
+      "value": "1,156,218",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AU",
+      "ref": "AU8",
+      "value": "1,340,284",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AV",
+      "ref": "AV8",
+      "value": "2,934,638",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AW",
+      "ref": "AW8",
+      "value": "6,354,013",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AX",
+      "ref": "AX8",
+      "value": "1,075,553",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AY",
+      "ref": "AY8",
+      "value": "749,378",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "AZ",
+      "ref": "AZ8",
+      "value": "915,772",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "BA",
+      "ref": "BA8",
+      "value": "322,954",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "BB",
+      "ref": "BB8",
+      "value": "322,915",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "BC",
+      "ref": "BC8",
+      "value": "415,922",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "BD",
+      "ref": "BD8",
+      "value": "402,725",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "BE",
+      "ref": "BE8",
+      "value": "411,374",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "BF",
+      "ref": "BF8",
+      "value": "369,939",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "BG",
+      "ref": "BG8",
+      "value": "249,213",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "BH",
+      "ref": "BH8",
+      "value": "270,073",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "BI",
+      "ref": "BI8",
+      "value": "279,499",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "BJ",
+      "ref": "BJ8",
+      "value": "316,142",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "BK",
+      "ref": "BK8",
+      "value": "308,913",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "BL",
+      "ref": "BL8",
+      "value": "291,220",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "BM",
+      "ref": "BM8",
+      "value": "292,280",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "BN",
+      "ref": "BN8",
+      "value": "285,822",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "BO",
+      "ref": "BO8",
+      "value": "294,934",
+      "formula": null
+    },
+    {
+      "row": 8,
+      "col": "BP",
+      "ref": "BP8",
+      "value": "336,569",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "B",
+      "ref": "B9",
+      "value": "达播",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "D",
+      "ref": "D9",
+      "value": 395145469,
+      "formula": "=E9+F9"
+    },
+    {
+      "row": 9,
+      "col": "E",
+      "ref": "E9",
+      "value": 357030749,
+      "formula": "=SUM(H9:AL9)"
+    },
+    {
+      "row": 9,
+      "col": "F",
+      "ref": "F9",
+      "value": 38114720,
+      "formula": "=SUM(AM9:BP9)"
+    },
+    {
+      "row": 9,
+      "col": "G",
+      "ref": "G9",
+      "value": 391983051,
+      "formula": "=SUM(O9:AZ9)"
+    },
+    {
+      "row": 9,
+      "col": "H",
+      "ref": "H9",
+      "value": "12,406",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "I",
+      "ref": "I9",
+      "value": "14,040",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "J",
+      "ref": "J9",
+      "value": "11,356",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "K",
+      "ref": "K9",
+      "value": "11,713",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "L",
+      "ref": "L9",
+      "value": "14,869",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "M",
+      "ref": "M9",
+      "value": "2,148,957",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "N",
+      "ref": "N9",
+      "value": "113,859",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "O",
+      "ref": "O9",
+      "value": "35,794",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "P",
+      "ref": "P9",
+      "value": "37,429",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "Q",
+      "ref": "Q9",
+      "value": "35,933",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "R",
+      "ref": "R9",
+      "value": "17,128",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "S",
+      "ref": "S9",
+      "value": "27,263",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "T",
+      "ref": "T9",
+      "value": "24,749",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "U",
+      "ref": "U9",
+      "value": "23,098",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "V",
+      "ref": "V9",
+      "value": "21,487",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "W",
+      "ref": "W9",
+      "value": "16,146",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "X",
+      "ref": "X9",
+      "value": "11,030",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "Y",
+      "ref": "Y9",
+      "value": "7,071",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "Z",
+      "ref": "Z9",
+      "value": "6,221",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AA",
+      "ref": "AA9",
+      "value": "241,392,105",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AB",
+      "ref": "AB9",
+      "value": "49,744,931",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AC",
+      "ref": "AC9",
+      "value": "16,796,719",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AD",
+      "ref": "AD9",
+      "value": "13,928,282",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AE",
+      "ref": "AE9",
+      "value": "16,503,545",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AF",
+      "ref": "AF9",
+      "value": "2,720,581",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AG",
+      "ref": "AG9",
+      "value": "2,403,608",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AH",
+      "ref": "AH9",
+      "value": "1,697,821",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AI",
+      "ref": "AI9",
+      "value": "1,684,347",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AJ",
+      "ref": "AJ9",
+      "value": "1,454,873",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AK",
+      "ref": "AK9",
+      "value": "1,182,150",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AL",
+      "ref": "AL9",
+      "value": "4,931,238",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AM",
+      "ref": "AM9",
+      "value": "1,305,398",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AN",
+      "ref": "AN9",
+      "value": "1,608,050",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AO",
+      "ref": "AO9",
+      "value": "1,363,022",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AP",
+      "ref": "AP9",
+      "value": "1,079,134",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AQ",
+      "ref": "AQ9",
+      "value": "893,675",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AR",
+      "ref": "AR9",
+      "value": "518,270",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AS",
+      "ref": "AS9",
+      "value": "484,302",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AT",
+      "ref": "AT9",
+      "value": "318,363",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AU",
+      "ref": "AU9",
+      "value": "334,319",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AV",
+      "ref": "AV9",
+      "value": "11,388,784",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AW",
+      "ref": "AW9",
+      "value": "11,874,527",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AX",
+      "ref": "AX9",
+      "value": "1,832,260",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AY",
+      "ref": "AY9",
+      "value": "1,450,455",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "AZ",
+      "ref": "AZ9",
+      "value": "2,828,943",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "BA",
+      "ref": "BA9",
+      "value": "55,599",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "BB",
+      "ref": "BB9",
+      "value": "22,787",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "BC",
+      "ref": "BC9",
+      "value": "35,825",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "BD",
+      "ref": "BD9",
+      "value": "47,661",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "BE",
+      "ref": "BE9",
+      "value": "48,268",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "BF",
+      "ref": "BF9",
+      "value": "26,813",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "BG",
+      "ref": "BG9",
+      "value": "21,939",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "BH",
+      "ref": "BH9",
+      "value": "30,916",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "BI",
+      "ref": "BI9",
+      "value": "32,944",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "BJ",
+      "ref": "BJ9",
+      "value": "42,520",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "BK",
+      "ref": "BK9",
+      "value": "31,810",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "BL",
+      "ref": "BL9",
+      "value": "38,677",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "BM",
+      "ref": "BM9",
+      "value": "266,951",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "BN",
+      "ref": "BN9",
+      "value": "65,096",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "BO",
+      "ref": "BO9",
+      "value": "30,551",
+      "formula": null
+    },
+    {
+      "row": 9,
+      "col": "BP",
+      "ref": "BP9",
+      "value": "36,861",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "B",
+      "ref": "B10",
+      "value": "货架",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "D",
+      "ref": "D10",
+      "value": 674623629,
+      "formula": "=E10+F10"
+    },
+    {
+      "row": 10,
+      "col": "E",
+      "ref": "E10",
+      "value": 398522101,
+      "formula": "=SUM(H10:AL10)"
+    },
+    {
+      "row": 10,
+      "col": "F",
+      "ref": "F10",
+      "value": 276101528,
+      "formula": "=SUM(AM10:BP10)"
+    },
+    {
+      "row": 10,
+      "col": "G",
+      "ref": "G10",
+      "value": 630247567,
+      "formula": "=SUM(O10:AZ10)"
+    },
+    {
+      "row": 10,
+      "col": "H",
+      "ref": "H10",
+      "value": "1,795,890",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "I",
+      "ref": "I10",
+      "value": "1,668,193",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "J",
+      "ref": "J10",
+      "value": "1,596,890",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "K",
+      "ref": "K10",
+      "value": "1,666,917",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "L",
+      "ref": "L10",
+      "value": "1,611,515",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "M",
+      "ref": "M10",
+      "value": "1,746,881",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "N",
+      "ref": "N10",
+      "value": "1,953,495",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "O",
+      "ref": "O10",
+      "value": "3,591,591",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "P",
+      "ref": "P10",
+      "value": "4,243,727",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "Q",
+      "ref": "Q10",
+      "value": "4,070,304",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "R",
+      "ref": "R10",
+      "value": "2,643,822",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "S",
+      "ref": "S10",
+      "value": "2,862,726",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "T",
+      "ref": "T10",
+      "value": "3,092,311",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "U",
+      "ref": "U10",
+      "value": "2,880,686",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "V",
+      "ref": "V10",
+      "value": "2,086,858",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "W",
+      "ref": "W10",
+      "value": "1,485,346",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "X",
+      "ref": "X10",
+      "value": "993,675",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "Y",
+      "ref": "Y10",
+      "value": "791,021",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "Z",
+      "ref": "Z10",
+      "value": "739,158",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AA",
+      "ref": "AA10",
+      "value": "178,729,636",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AB",
+      "ref": "AB10",
+      "value": "47,226,199",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AC",
+      "ref": "AC10",
+      "value": "15,689,673",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AD",
+      "ref": "AD10",
+      "value": "12,130,787",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AE",
+      "ref": "AE10",
+      "value": "48,565,837",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AF",
+      "ref": "AF10",
+      "value": "8,440,617",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AG",
+      "ref": "AG10",
+      "value": "7,221,039",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AH",
+      "ref": "AH10",
+      "value": "6,721,049",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AI",
+      "ref": "AI10",
+      "value": "7,393,662",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AJ",
+      "ref": "AJ10",
+      "value": "5,918,943",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AK",
+      "ref": "AK10",
+      "value": "5,651,618",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AL",
+      "ref": "AL10",
+      "value": "13,312,035",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AM",
+      "ref": "AM10",
+      "value": "5,415,083",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AN",
+      "ref": "AN10",
+      "value": "5,661,296",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AO",
+      "ref": "AO10",
+      "value": "6,328,710",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AP",
+      "ref": "AP10",
+      "value": "5,056,132",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AQ",
+      "ref": "AQ10",
+      "value": "5,364,531",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AR",
+      "ref": "AR10",
+      "value": "5,133,419",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AS",
+      "ref": "AS10",
+      "value": "9,969,127",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AT",
+      "ref": "AT10",
+      "value": "4,753,338",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AU",
+      "ref": "AU10",
+      "value": "9,822,311",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AV",
+      "ref": "AV10",
+      "value": "30,049,280",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AW",
+      "ref": "AW10",
+      "value": "51,033,105",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AX",
+      "ref": "AX10",
+      "value": "5,032,566",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AY",
+      "ref": "AY10",
+      "value": "4,179,888",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "AZ",
+      "ref": "AZ10",
+      "value": "95,966,461",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "BA",
+      "ref": "BA10",
+      "value": "1,946,393",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "BB",
+      "ref": "BB10",
+      "value": "1,804,078",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "BC",
+      "ref": "BC10",
+      "value": "2,699,888",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "BD",
+      "ref": "BD10",
+      "value": "2,478,173",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "BE",
+      "ref": "BE10",
+      "value": "2,627,511",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "BF",
+      "ref": "BF10",
+      "value": "2,353,009",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "BG",
+      "ref": "BG10",
+      "value": "1,444,624",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "BH",
+      "ref": "BH10",
+      "value": "1,630,353",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "BI",
+      "ref": "BI10",
+      "value": "1,756,078",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "BJ",
+      "ref": "BJ10",
+      "value": "1,996,007",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "BK",
+      "ref": "BK10",
+      "value": "1,927,557",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "BL",
+      "ref": "BL10",
+      "value": "1,920,162",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "BM",
+      "ref": "BM10",
+      "value": "1,894,807",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "BN",
+      "ref": "BN10",
+      "value": "1,772,963",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "BO",
+      "ref": "BO10",
+      "value": "1,939,391",
+      "formula": null
+    },
+    {
+      "row": 10,
+      "col": "BP",
+      "ref": "BP10",
+      "value": "2,145,287",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "B",
+      "ref": "B11",
+      "value": "货架-常规",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "D",
+      "ref": "D11",
+      "value": 573958665.12,
+      "formula": "=E11+F11"
+    },
+    {
+      "row": 11,
+      "col": "E",
+      "ref": "E11",
+      "value": 337455464.82,
+      "formula": "=SUM(H11:AL11)"
+    },
+    {
+      "row": 11,
+      "col": "F",
+      "ref": "F11",
+      "value": 236503200.3,
+      "formula": "=SUM(AM11:BP11)"
+    },
+    {
+      "row": 11,
+      "col": "G",
+      "ref": "G11",
+      "value": 543203776.12,
+      "formula": "=SUM(O11:AZ11)"
+    },
+    {
+      "row": 11,
+      "col": "H",
+      "ref": "H11",
+      "value": "1,147,888",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "I",
+      "ref": "I11",
+      "value": "1,078,180",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "J",
+      "ref": "J11",
+      "value": "1,044,277",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "K",
+      "ref": "K11",
+      "value": "1,088,930",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "L",
+      "ref": "L11",
+      "value": "1,099,681",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "M",
+      "ref": "M11",
+      "value": "1,173,485",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "N",
+      "ref": "N11",
+      "value": "1,220,717",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "O",
+      "ref": "O11",
+      "value": "2,249,062",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "P",
+      "ref": "P11",
+      "value": "2,495,689",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "Q",
+      "ref": "Q11",
+      "value": "2,976,247",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "R",
+      "ref": "R11",
+      "value": "1,983,338",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "S",
+      "ref": "S11",
+      "value": "2,128,117",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "T",
+      "ref": "T11",
+      "value": "2,185,516",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "U",
+      "ref": "U11",
+      "value": "2,146,863",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "V",
+      "ref": "V11",
+      "value": "838,571",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "W",
+      "ref": "W11",
+      "value": "632,901",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "X",
+      "ref": "X11",
+      "value": "327,833",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "Y",
+      "ref": "Y11",
+      "value": "347,640",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "Z",
+      "ref": "Z11",
+      "value": "305,917",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AA",
+      "ref": "AA11",
+      "value": "167,286,793",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AB",
+      "ref": "AB11",
+      "value": "41,494,231",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AC",
+      "ref": "AC11",
+      "value": "11,677,314",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AD",
+      "ref": "AD11",
+      "value": "9,044,143",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AE",
+      "ref": "AE11",
+      "value": "44,349,823",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AF",
+      "ref": "AF11",
+      "value": "6,398,482",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AG",
+      "ref": "AG11",
+      "value": "4,487,859",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AH",
+      "ref": "AH11",
+      "value": "4,274,057",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AI",
+      "ref": "AI11",
+      "value": "3,873,896",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AJ",
+      "ref": "AJ11",
+      "value": "4,044,306",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AK",
+      "ref": "AK11",
+      "value": "3,698,014",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AL",
+      "ref": "AL11",
+      "value": "10,355,692",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AM",
+      "ref": "AM11",
+      "value": "3,733,076",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AN",
+      "ref": "AN11",
+      "value": "4,034,130",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AO",
+      "ref": "AO11",
+      "value": "4,614,898",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AP",
+      "ref": "AP11",
+      "value": "3,635,949",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AQ",
+      "ref": "AQ11",
+      "value": "3,512,667",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AR",
+      "ref": "AR11",
+      "value": "3,092,057",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AS",
+      "ref": "AS11",
+      "value": "7,987,103",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AT",
+      "ref": "AT11",
+      "value": "3,284,682",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AU",
+      "ref": "AU11",
+      "value": "8,112,663",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AV",
+      "ref": "AV11",
+      "value": "26,924,337",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AW",
+      "ref": "AW11",
+      "value": "43,572,774",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AX",
+      "ref": "AX11",
+      "value": "3,472,359",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AY",
+      "ref": "AY11",
+      "value": "3,027,605",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "AZ",
+      "ref": "AZ11",
+      "value": "94,597,169",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "BA",
+      "ref": "BA11",
+      "value": "1,491,871",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "BB",
+      "ref": "BB11",
+      "value": "1,298,237",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "BC",
+      "ref": "BC11",
+      "value": "1,968,526",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "BD",
+      "ref": "BD11",
+      "value": "1,797,926",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "BE",
+      "ref": "BE11",
+      "value": "1,942,259",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "BF",
+      "ref": "BF11",
+      "value": "1,784,192",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "BG",
+      "ref": "BG11",
+      "value": "1,008,104",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "BH",
+      "ref": "BH11",
+      "value": "1,104,639",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "BI",
+      "ref": "BI11",
+      "value": "1,199,380",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "BJ",
+      "ref": "BJ11",
+      "value": "1,334,098",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "BK",
+      "ref": "BK11",
+      "value": "1,256,157",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "BL",
+      "ref": "BL11",
+      "value": "1,312,183",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "BM",
+      "ref": "BM11",
+      "value": "1,319,950",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "BN",
+      "ref": "BN11",
+      "value": "1,252,346",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "BO",
+      "ref": "BO11",
+      "value": "1,315,808",
+      "formula": null
+    },
+    {
+      "row": 11,
+      "col": "BP",
+      "ref": "BP11",
+      "value": "1,516,055",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "B",
+      "ref": "B12",
+      "value": "货架-CPS",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "D",
+      "ref": "D12",
+      "value": 49660984.88,
+      "formula": "=E12+F12"
+    },
+    {
+      "row": 12,
+      "col": "E",
+      "ref": "E12",
+      "value": 35009889.18,
+      "formula": "=SUM(H12:AL12)"
+    },
+    {
+      "row": 12,
+      "col": "F",
+      "ref": "F12",
+      "value": 14651095.7,
+      "formula": "=SUM(AM12:BP12)"
+    },
+    {
+      "row": 12,
+      "col": "G",
+      "ref": "G12",
+      "value": 46653259.88,
+      "formula": "=SUM(O12:AZ12)"
+    },
+    {
+      "row": 12,
+      "col": "H",
+      "ref": "H12",
+      "value": "193,697",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "I",
+      "ref": "I12",
+      "value": "178,031",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "J",
+      "ref": "J12",
+      "value": "156,296",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "K",
+      "ref": "K12",
+      "value": "179,150",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "L",
+      "ref": "L12",
+      "value": "116,154",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "M",
+      "ref": "M12",
+      "value": "144,582",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "N",
+      "ref": "N12",
+      "value": "248,561",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "O",
+      "ref": "O12",
+      "value": "585,409",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "P",
+      "ref": "P12",
+      "value": "1,271,365",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "Q",
+      "ref": "Q12",
+      "value": "700,007",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "R",
+      "ref": "R12",
+      "value": "319,446",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "S",
+      "ref": "S12",
+      "value": "254,000",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "T",
+      "ref": "T12",
+      "value": "426,857",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "U",
+      "ref": "U12",
+      "value": "254,934",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "V",
+      "ref": "V12",
+      "value": "293,638",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "W",
+      "ref": "W12",
+      "value": "177,383",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "X",
+      "ref": "X12",
+      "value": "316,491",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "Y",
+      "ref": "Y12",
+      "value": "110,527",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "Z",
+      "ref": "Z12",
+      "value": "78,446",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AA",
+      "ref": "AA12",
+      "value": "8,353,472",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AB",
+      "ref": "AB12",
+      "value": "3,716,050",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AC",
+      "ref": "AC12",
+      "value": "2,273,440",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AD",
+      "ref": "AD12",
+      "value": "1,542,366",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AE",
+      "ref": "AE12",
+      "value": "2,793,883",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AF",
+      "ref": "AF12",
+      "value": "856,694",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AG",
+      "ref": "AG12",
+      "value": "1,498,604",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AH",
+      "ref": "AH12",
+      "value": "1,346,301",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AI",
+      "ref": "AI12",
+      "value": "2,456,272",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AJ",
+      "ref": "AJ12",
+      "value": "1,087,454",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AK",
+      "ref": "AK12",
+      "value": "1,159,105",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AL",
+      "ref": "AL12",
+      "value": "1,921,277",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AM",
+      "ref": "AM12",
+      "value": "766,773",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AN",
+      "ref": "AN12",
+      "value": "681,944",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AO",
+      "ref": "AO12",
+      "value": "785,520",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AP",
+      "ref": "AP12",
+      "value": "579,555",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AQ",
+      "ref": "AQ12",
+      "value": "999,536",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AR",
+      "ref": "AR12",
+      "value": "1,169,389",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AS",
+      "ref": "AS12",
+      "value": "1,118,735",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AT",
+      "ref": "AT12",
+      "value": "582,090",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AU",
+      "ref": "AU12",
+      "value": "621,916",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AV",
+      "ref": "AV12",
+      "value": "1,217,632",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AW",
+      "ref": "AW12",
+      "value": "2,831,313",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AX",
+      "ref": "AX12",
+      "value": "552,240",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AY",
+      "ref": "AY12",
+      "value": "411,726",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "AZ",
+      "ref": "AZ12",
+      "value": "541,473",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "BA",
+      "ref": "BA12",
+      "value": "90,352",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "BB",
+      "ref": "BB12",
+      "value": "97,734",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "BC",
+      "ref": "BC12",
+      "value": "186,385",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "BD",
+      "ref": "BD12",
+      "value": "175,928",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "BE",
+      "ref": "BE12",
+      "value": "168,943",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "BF",
+      "ref": "BF12",
+      "value": "133,329",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "BG",
+      "ref": "BG12",
+      "value": "39,793",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "BH",
+      "ref": "BH12",
+      "value": "73,477",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "BI",
+      "ref": "BI12",
+      "value": "72,984",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "BJ",
+      "ref": "BJ12",
+      "value": "86,001",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "BK",
+      "ref": "BK12",
+      "value": "119,167",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "BL",
+      "ref": "BL12",
+      "value": "106,024",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "BM",
+      "ref": "BM12",
+      "value": "97,520",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "BN",
+      "ref": "BN12",
+      "value": "89,099",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "BO",
+      "ref": "BO12",
+      "value": "139,462",
+      "formula": null
+    },
+    {
+      "row": 12,
+      "col": "BP",
+      "ref": "BP12",
+      "value": "115,056",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "B",
+      "ref": "B13",
+      "value": "百补",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "D",
+      "ref": "D13",
+      "value": 51003979,
+      "formula": "=E13+F13"
+    },
+    {
+      "row": 13,
+      "col": "E",
+      "ref": "E13",
+      "value": 26056747,
+      "formula": "=SUM(H13:AL13)"
+    },
+    {
+      "row": 13,
+      "col": "F",
+      "ref": "F13",
+      "value": 24947232,
+      "formula": "=SUM(AM13:BP13)"
+    },
+    {
+      "row": 13,
+      "col": "G",
+      "ref": "G13",
+      "value": 40390531,
+      "formula": "=SUM(O13:AZ13)"
+    },
+    {
+      "row": 13,
+      "col": "H",
+      "ref": "H13",
+      "value": "454,305",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "I",
+      "ref": "I13",
+      "value": "411,982",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "J",
+      "ref": "J13",
+      "value": "396,317",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "K",
+      "ref": "K13",
+      "value": "398,837",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "L",
+      "ref": "L13",
+      "value": "395,680",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "M",
+      "ref": "M13",
+      "value": "428,814",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "N",
+      "ref": "N13",
+      "value": "484,217",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "O",
+      "ref": "O13",
+      "value": "757,120",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "P",
+      "ref": "P13",
+      "value": "476,673",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "Q",
+      "ref": "Q13",
+      "value": "394,050",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "R",
+      "ref": "R13",
+      "value": "341,038",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "S",
+      "ref": "S13",
+      "value": "480,609",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "T",
+      "ref": "T13",
+      "value": "479,938",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "U",
+      "ref": "U13",
+      "value": "478,889",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "V",
+      "ref": "V13",
+      "value": "954,649",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "W",
+      "ref": "W13",
+      "value": "675,062",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "X",
+      "ref": "X13",
+      "value": "349,351",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "Y",
+      "ref": "Y13",
+      "value": "332,854",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "Z",
+      "ref": "Z13",
+      "value": "354,795",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AA",
+      "ref": "AA13",
+      "value": "3,089,371",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AB",
+      "ref": "AB13",
+      "value": "2,015,918",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AC",
+      "ref": "AC13",
+      "value": "1,738,919",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AD",
+      "ref": "AD13",
+      "value": "1,544,278",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AE",
+      "ref": "AE13",
+      "value": "1,422,131",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AF",
+      "ref": "AF13",
+      "value": "1,185,441",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AG",
+      "ref": "AG13",
+      "value": "1,234,576",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AH",
+      "ref": "AH13",
+      "value": "1,100,691",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AI",
+      "ref": "AI13",
+      "value": "1,063,494",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AJ",
+      "ref": "AJ13",
+      "value": "787,183",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AK",
+      "ref": "AK13",
+      "value": "794,499",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AL",
+      "ref": "AL13",
+      "value": "1,035,066",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AM",
+      "ref": "AM13",
+      "value": "915,234",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AN",
+      "ref": "AN13",
+      "value": "945,222",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AO",
+      "ref": "AO13",
+      "value": "928,292",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AP",
+      "ref": "AP13",
+      "value": "840,628",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AQ",
+      "ref": "AQ13",
+      "value": "852,328",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AR",
+      "ref": "AR13",
+      "value": "871,973",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AS",
+      "ref": "AS13",
+      "value": "863,289",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AT",
+      "ref": "AT13",
+      "value": "886,566",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AU",
+      "ref": "AU13",
+      "value": "1,087,732",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AV",
+      "ref": "AV13",
+      "value": "1,907,311",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AW",
+      "ref": "AW13",
+      "value": "4,629,018",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AX",
+      "ref": "AX13",
+      "value": "1,007,967",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AY",
+      "ref": "AY13",
+      "value": "740,557",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "AZ",
+      "ref": "AZ13",
+      "value": "827,819",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "BA",
+      "ref": "BA13",
+      "value": "364,170",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "BB",
+      "ref": "BB13",
+      "value": "408,107",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "BC",
+      "ref": "BC13",
+      "value": "544,977",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "BD",
+      "ref": "BD13",
+      "value": "504,319",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "BE",
+      "ref": "BE13",
+      "value": "516,309",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "BF",
+      "ref": "BF13",
+      "value": "435,488",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "BG",
+      "ref": "BG13",
+      "value": "396,727",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "BH",
+      "ref": "BH13",
+      "value": "452,237",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "BI",
+      "ref": "BI13",
+      "value": "483,714",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "BJ",
+      "ref": "BJ13",
+      "value": "575,908",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "BK",
+      "ref": "BK13",
+      "value": "552,233",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "BL",
+      "ref": "BL13",
+      "value": "501,955",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "BM",
+      "ref": "BM13",
+      "value": "477,337",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "BN",
+      "ref": "BN13",
+      "value": "431,518",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "BO",
+      "ref": "BO13",
+      "value": "484,121",
+      "formula": null
+    },
+    {
+      "row": 13,
+      "col": "BP",
+      "ref": "BP13",
+      "value": "514,176",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "B",
+      "ref": "B14",
+      "value": "达播TTL",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "D",
+      "ref": "D14",
+      "value": 395145469,
+      "formula": "=E14+F14"
+    },
+    {
+      "row": 14,
+      "col": "E",
+      "ref": "E14",
+      "value": 357030749,
+      "formula": "=SUM(H14:AL14)"
+    },
+    {
+      "row": 14,
+      "col": "F",
+      "ref": "F14",
+      "value": 38114720,
+      "formula": "=SUM(AM14:BP14)"
+    },
+    {
+      "row": 14,
+      "col": "G",
+      "ref": "G14",
+      "value": 391983051,
+      "formula": "=SUM(O14:AZ14)"
+    },
+    {
+      "row": 14,
+      "col": "H",
+      "ref": "H14",
+      "value": "12,406",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "I",
+      "ref": "I14",
+      "value": "14,040",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "J",
+      "ref": "J14",
+      "value": "11,356",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "K",
+      "ref": "K14",
+      "value": "11,713",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "L",
+      "ref": "L14",
+      "value": "14,869",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "M",
+      "ref": "M14",
+      "value": "2,148,957",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "N",
+      "ref": "N14",
+      "value": "113,859",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "O",
+      "ref": "O14",
+      "value": "35,794",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "P",
+      "ref": "P14",
+      "value": "37,429",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "Q",
+      "ref": "Q14",
+      "value": "35,933",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "R",
+      "ref": "R14",
+      "value": "17,128",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "S",
+      "ref": "S14",
+      "value": "27,263",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "T",
+      "ref": "T14",
+      "value": "24,749",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "U",
+      "ref": "U14",
+      "value": "23,098",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "V",
+      "ref": "V14",
+      "value": "21,487",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "W",
+      "ref": "W14",
+      "value": "16,146",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "X",
+      "ref": "X14",
+      "value": "11,030",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "Y",
+      "ref": "Y14",
+      "value": "7,071",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "Z",
+      "ref": "Z14",
+      "value": "6,221",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AA",
+      "ref": "AA14",
+      "value": "241,392,105",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AB",
+      "ref": "AB14",
+      "value": "49,744,931",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AC",
+      "ref": "AC14",
+      "value": "16,796,719",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AD",
+      "ref": "AD14",
+      "value": "13,928,282",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AE",
+      "ref": "AE14",
+      "value": "16,503,545",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AF",
+      "ref": "AF14",
+      "value": "2,720,581",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AG",
+      "ref": "AG14",
+      "value": "2,403,608",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AH",
+      "ref": "AH14",
+      "value": "1,697,821",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AI",
+      "ref": "AI14",
+      "value": "1,684,347",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AJ",
+      "ref": "AJ14",
+      "value": "1,454,873",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AK",
+      "ref": "AK14",
+      "value": "1,182,150",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AL",
+      "ref": "AL14",
+      "value": "4,931,238",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AM",
+      "ref": "AM14",
+      "value": "1,305,398",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AN",
+      "ref": "AN14",
+      "value": "1,608,050",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AO",
+      "ref": "AO14",
+      "value": "1,363,022",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AP",
+      "ref": "AP14",
+      "value": "1,079,134",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AQ",
+      "ref": "AQ14",
+      "value": "893,675",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AR",
+      "ref": "AR14",
+      "value": "518,270",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AS",
+      "ref": "AS14",
+      "value": "484,302",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AT",
+      "ref": "AT14",
+      "value": "318,363",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AU",
+      "ref": "AU14",
+      "value": "334,319",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AV",
+      "ref": "AV14",
+      "value": "11,388,784",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AW",
+      "ref": "AW14",
+      "value": "11,874,527",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AX",
+      "ref": "AX14",
+      "value": "1,832,260",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AY",
+      "ref": "AY14",
+      "value": "1,450,455",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "AZ",
+      "ref": "AZ14",
+      "value": "2,828,943",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "BA",
+      "ref": "BA14",
+      "value": "55,599",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "BB",
+      "ref": "BB14",
+      "value": "22,787",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "BC",
+      "ref": "BC14",
+      "value": "35,825",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "BD",
+      "ref": "BD14",
+      "value": "47,661",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "BE",
+      "ref": "BE14",
+      "value": "48,268",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "BF",
+      "ref": "BF14",
+      "value": "26,813",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "BG",
+      "ref": "BG14",
+      "value": "21,939",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "BH",
+      "ref": "BH14",
+      "value": "30,916",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "BI",
+      "ref": "BI14",
+      "value": "32,944",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "BJ",
+      "ref": "BJ14",
+      "value": "42,520",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "BK",
+      "ref": "BK14",
+      "value": "31,810",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "BL",
+      "ref": "BL14",
+      "value": "38,677",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "BM",
+      "ref": "BM14",
+      "value": "266,951",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "BN",
+      "ref": "BN14",
+      "value": "65,096",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "BO",
+      "ref": "BO14",
+      "value": "30,551",
+      "formula": null
+    },
+    {
+      "row": 14,
+      "col": "BP",
+      "ref": "BP14",
+      "value": "36,861",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "B",
+      "ref": "B15",
+      "value": "达播-超头",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "D",
+      "ref": "D15",
+      "value": 375612960,
+      "formula": "=E15+F15"
+    },
+    {
+      "row": 15,
+      "col": "E",
+      "ref": "E15",
+      "value": 342220648,
+      "formula": "=SUM(H15:AL15)"
+    },
+    {
+      "row": 15,
+      "col": "F",
+      "ref": "F15",
+      "value": 33392312,
+      "formula": "=SUM(AM15:BP15)"
+    },
+    {
+      "row": 15,
+      "col": "G",
+      "ref": "G15",
+      "value": 373089145,
+      "formula": "=SUM(O15:AZ15)"
+    },
+    {
+      "row": 15,
+      "col": "M",
+      "ref": "M15",
+      "value": "2,133,496",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "N",
+      "ref": "N15",
+      "value": "96,710",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AA",
+      "ref": "AA15",
+      "value": "232,173,359",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AB",
+      "ref": "AB15",
+      "value": "47,733,496",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AC",
+      "ref": "AC15",
+      "value": "15,862,860",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AD",
+      "ref": "AD15",
+      "value": "13,259,712",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AE",
+      "ref": "AE15",
+      "value": "15,694,793",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AF",
+      "ref": "AF15",
+      "value": "2,597,387",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AG",
+      "ref": "AG15",
+      "value": "2,277,173",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AH",
+      "ref": "AH15",
+      "value": "1,591,804",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AI",
+      "ref": "AI15",
+      "value": "1,583,527",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AJ",
+      "ref": "AJ15",
+      "value": "1,342,198",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AK",
+      "ref": "AK15",
+      "value": "1,076,806",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AL",
+      "ref": "AL15",
+      "value": "4,797,327",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AM",
+      "ref": "AM15",
+      "value": "1,209,138",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AN",
+      "ref": "AN15",
+      "value": "1,531,534",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AO",
+      "ref": "AO15",
+      "value": "1,286,675",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AP",
+      "ref": "AP15",
+      "value": "1,012,087",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AQ",
+      "ref": "AQ15",
+      "value": "829,924",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AR",
+      "ref": "AR15",
+      "value": "461,577",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AS",
+      "ref": "AS15",
+      "value": "418,192",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AT",
+      "ref": "AT15",
+      "value": "254,200",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AU",
+      "ref": "AU15",
+      "value": "266,078",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AV",
+      "ref": "AV15",
+      "value": "9,751,963",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AW",
+      "ref": "AW15",
+      "value": "10,558,198",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AX",
+      "ref": "AX15",
+      "value": "1,647,400",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AY",
+      "ref": "AY15",
+      "value": "1,300,792",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "AZ",
+      "ref": "AZ15",
+      "value": "2,570,945",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "BA",
+      "ref": "BA15",
+      "value": "31,406",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "BM",
+      "ref": "BM15",
+      "value": "231,906",
+      "formula": null
+    },
+    {
+      "row": 15,
+      "col": "BN",
+      "ref": "BN15",
+      "value": "30,297",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "B",
+      "ref": "B16",
+      "value": "达播-二梯队",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "D",
+      "ref": "D16",
+      "value": 19532509,
+      "formula": "=E16+F16"
+    },
+    {
+      "row": 16,
+      "col": "E",
+      "ref": "E16",
+      "value": 14810101,
+      "formula": "=SUM(H16:AL16)"
+    },
+    {
+      "row": 16,
+      "col": "F",
+      "ref": "F16",
+      "value": 4722408,
+      "formula": "=SUM(AM16:BP16)"
+    },
+    {
+      "row": 16,
+      "col": "G",
+      "ref": "G16",
+      "value": 18893906,
+      "formula": "=SUM(O16:AZ16)"
+    },
+    {
+      "row": 16,
+      "col": "H",
+      "ref": "H16",
+      "value": "12,406",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "I",
+      "ref": "I16",
+      "value": "14,040",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "J",
+      "ref": "J16",
+      "value": "11,356",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "K",
+      "ref": "K16",
+      "value": "11,713",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "L",
+      "ref": "L16",
+      "value": "14,869",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "M",
+      "ref": "M16",
+      "value": "15,461",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "N",
+      "ref": "N16",
+      "value": "17,149",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "O",
+      "ref": "O16",
+      "value": "35,794",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "P",
+      "ref": "P16",
+      "value": "37,429",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "Q",
+      "ref": "Q16",
+      "value": "35,933",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "R",
+      "ref": "R16",
+      "value": "17,128",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "S",
+      "ref": "S16",
+      "value": "27,263",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "T",
+      "ref": "T16",
+      "value": "24,749",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "U",
+      "ref": "U16",
+      "value": "23,098",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "V",
+      "ref": "V16",
+      "value": "21,487",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "W",
+      "ref": "W16",
+      "value": "16,146",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "X",
+      "ref": "X16",
+      "value": "11,030",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "Y",
+      "ref": "Y16",
+      "value": "7,071",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "Z",
+      "ref": "Z16",
+      "value": "6,221",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AA",
+      "ref": "AA16",
+      "value": "9,218,746",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AB",
+      "ref": "AB16",
+      "value": "2,011,435",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AC",
+      "ref": "AC16",
+      "value": "933,859",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AD",
+      "ref": "AD16",
+      "value": "668,570",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AE",
+      "ref": "AE16",
+      "value": "808,752",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AF",
+      "ref": "AF16",
+      "value": "123,194",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AG",
+      "ref": "AG16",
+      "value": "126,435",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AH",
+      "ref": "AH16",
+      "value": "106,017",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AI",
+      "ref": "AI16",
+      "value": "100,820",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AJ",
+      "ref": "AJ16",
+      "value": "112,675",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AK",
+      "ref": "AK16",
+      "value": "105,344",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AL",
+      "ref": "AL16",
+      "value": "133,911",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AM",
+      "ref": "AM16",
+      "value": "96,260",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AN",
+      "ref": "AN16",
+      "value": "76,516",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AO",
+      "ref": "AO16",
+      "value": "76,347",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AP",
+      "ref": "AP16",
+      "value": "67,047",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AQ",
+      "ref": "AQ16",
+      "value": "63,751",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AR",
+      "ref": "AR16",
+      "value": "56,693",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AS",
+      "ref": "AS16",
+      "value": "66,110",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AT",
+      "ref": "AT16",
+      "value": "64,163",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AU",
+      "ref": "AU16",
+      "value": "68,241",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AV",
+      "ref": "AV16",
+      "value": "1,636,821",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AW",
+      "ref": "AW16",
+      "value": "1,316,329",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AX",
+      "ref": "AX16",
+      "value": "184,860",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AY",
+      "ref": "AY16",
+      "value": "149,663",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "AZ",
+      "ref": "AZ16",
+      "value": "257,998",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "BA",
+      "ref": "BA16",
+      "value": "24,193",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "BB",
+      "ref": "BB16",
+      "value": "22,787",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "BC",
+      "ref": "BC16",
+      "value": "35,825",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "BD",
+      "ref": "BD16",
+      "value": "47,661",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "BE",
+      "ref": "BE16",
+      "value": "48,268",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "BF",
+      "ref": "BF16",
+      "value": "26,813",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "BG",
+      "ref": "BG16",
+      "value": "21,939",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "BH",
+      "ref": "BH16",
+      "value": "30,916",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "BI",
+      "ref": "BI16",
+      "value": "32,944",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "BJ",
+      "ref": "BJ16",
+      "value": "42,520",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "BK",
+      "ref": "BK16",
+      "value": "31,810",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "BL",
+      "ref": "BL16",
+      "value": "38,677",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "BM",
+      "ref": "BM16",
+      "value": "35,045",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "BN",
+      "ref": "BN16",
+      "value": "34,799",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "BO",
+      "ref": "BO16",
+      "value": "30,551",
+      "formula": null
+    },
+    {
+      "row": 16,
+      "col": "BP",
+      "ref": "BP16",
+      "value": "36,861",
+      "formula": null
+    }
+  ],
+  "blank_cells": [
+    "C1",
+    "B2",
+    "C2",
+    "D2",
+    "E2",
+    "F2",
+    "G2",
+    "I2",
+    "J2",
+    "K2",
+    "L2",
+    "M2",
+    "N2",
+    "P2",
+    "Q2",
+    "R2",
+    "S2",
+    "T2",
+    "U2",
+    "W2",
+    "X2",
+    "Y2",
+    "Z2",
+    "AB2",
+    "AC2",
+    "AD2",
+    "AE2",
+    "AG2",
+    "AH2",
+    "AI2",
+    "AJ2",
+    "AK2",
+    "AL2",
+    "AM2",
+    "AN2",
+    "AO2",
+    "AP2",
+    "AQ2",
+    "AR2",
+    "AS2",
+    "AT2",
+    "AU2",
+    "AV2",
+    "AW2",
+    "AX2",
+    "AY2",
+    "AZ2",
+    "BA2",
+    "BB2",
+    "BC2",
+    "BD2",
+    "BE2",
+    "BF2",
+    "BG2",
+    "BH2",
+    "BI2",
+    "BJ2",
+    "BK2",
+    "BL2",
+    "BM2",
+    "BN2",
+    "BO2",
+    "BP2",
+    "C3",
+    "D3",
+    "E3",
+    "F3",
+    "G3",
+    "I3",
+    "J3",
+    "K3",
+    "L3",
+    "M3",
+    "N3",
+    "P3",
+    "Q3",
+    "S3",
+    "T3",
+    "U3",
+    "W3",
+    "X3",
+    "Y3",
+    "Z3",
+    "AB3",
+    "AC3",
+    "AD3",
+    "AE3",
+    "AG3",
+    "AH3",
+    "AI3",
+    "AJ3",
+    "AK3",
+    "AL3",
+    "AM3",
+    "AN3",
+    "AO3",
+    "AP3",
+    "AQ3",
+    "AR3",
+    "AT3",
+    "AU3",
+    "AV3",
+    "AW3",
+    "AX3",
+    "AY3",
+    "AZ3",
+    "BB3",
+    "BC3",
+    "BD3",
+    "BE3",
+    "BF3",
+    "BG3",
+    "BH3",
+    "BI3",
+    "BJ3",
+    "BK3",
+    "BL3",
+    "BM3",
+    "BN3",
+    "BO3",
+    "BP3",
+    "A4",
+    "C4",
+    "D4",
+    "E4",
+    "F4",
+    "G4",
+    "H4",
+    "I4",
+    "J4",
+    "K4",
+    "L4",
+    "M4",
+    "N4",
+    "O4",
+    "P4",
+    "Q4",
+    "S4",
+    "T4",
+    "U4",
+    "V4",
+    "W4",
+    "Y4",
+    "Z4",
+    "AB4",
+    "AC4",
+    "AD4",
+    "AE4",
+    "AF4",
+    "AG4",
+    "AH4",
+    "AI4",
+    "AJ4",
+    "AK4",
+    "AL4",
+    "AM4",
+    "AN4",
+    "AO4",
+    "AP4",
+    "AQ4",
+    "AR4",
+    "AS4",
+    "AT4",
+    "AU4",
+    "AV4",
+    "AW4",
+    "AX4",
+    "AY4",
+    "AZ4",
+    "BA4",
+    "BB4",
+    "BD4",
+    "BE4",
+    "BG4",
+    "BH4",
+    "BI4",
+    "BJ4",
+    "BK4",
+    "BL4",
+    "BM4",
+    "BN4",
+    "BO4",
+    "BP4",
+    "A5",
+    "C5",
+    "D5",
+    "E5",
+    "F5",
+    "G5",
+    "I5",
+    "J5",
+    "K5",
+    "L5",
+    "M5",
+    "N5",
+    "P5",
+    "Q5",
+    "R5",
+    "S5",
+    "T5",
+    "W5",
+    "X5",
+    "Y5",
+    "Z5",
+    "AB5",
+    "AC5",
+    "AD5",
+    "AE5",
+    "AF5",
+    "AG5",
+    "AH5",
+    "AI5",
+    "AJ5",
+    "AK5",
+    "AL5",
+    "AM5",
+    "AN5",
+    "AO5",
+    "AP5",
+    "AQ5",
+    "AR5",
+    "AS5",
+    "AT5",
+    "AU5",
+    "AV5",
+    "AW5",
+    "AX5",
+    "AY5",
+    "AZ5",
+    "BB5",
+    "BD5",
+    "BE5",
+    "BH5",
+    "BI5",
+    "BJ5",
+    "BK5",
+    "BL5",
+    "BM5",
+    "BN5",
+    "BO5",
+    "BP5",
+    "C6",
+    "A7",
+    "C7",
+    "A8",
+    "C8",
+    "A9",
+    "C9",
+    "A10",
+    "C10",
+    "A11",
+    "C11",
+    "A12",
+    "C12",
+    "A13",
+    "C13",
+    "A14",
+    "C14",
+    "A15",
+    "C15",
+    "H15",
+    "I15",
+    "J15",
+    "K15",
+    "L15",
+    "O15",
+    "P15",
+    "Q15",
+    "R15",
+    "S15",
+    "T15",
+    "U15",
+    "V15",
+    "W15",
+    "X15",
+    "Y15",
+    "Z15",
+    "BB15",
+    "BC15",
+    "BD15",
+    "BE15",
+    "BF15",
+    "BG15",
+    "BH15",
+    "BI15",
+    "BJ15",
+    "BK15",
+    "BL15",
+    "BO15",
+    "BP15",
+    "A16",
+    "C16"
+  ],
+  "revision": 2,
+  "title": "天猫25年双十一营销节奏（渠道GMV版）",
+  "url": "https://xdp7r8eri5.feishu.cn/sheets/KNapsbaxphZicmtYbVucthpfnBe?sheet=br7rV5",
+  "sheet_id": "br7rV5",
+  "read_at": "2026-11-05T06:32:07.206474+00:00",
+  "range": "A1:BP16",
+  "sheet_bounds": {
+    "row_count": 16,
+    "column_count": 68
+  },
+  "read_end_row": 16
+}

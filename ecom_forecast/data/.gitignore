@@ -1,0 +1,2 @@
+# 本机生成的集成配置加密密钥不得进入版本库。
+.integration_settings.key
